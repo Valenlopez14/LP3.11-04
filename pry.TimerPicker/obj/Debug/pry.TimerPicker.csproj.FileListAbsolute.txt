@@ -1,0 +1,10 @@
+D:\Escritorio\pry.TimerPicker\bin\Debug\pry.TimerPicker.exe.config
+D:\Escritorio\pry.TimerPicker\bin\Debug\pry.TimerPicker.exe
+D:\Escritorio\pry.TimerPicker\bin\Debug\pry.TimerPicker.pdb
+D:\Escritorio\pry.TimerPicker\obj\Debug\pry.TimerPicker.Form1.resources
+D:\Escritorio\pry.TimerPicker\obj\Debug\pry.TimerPicker.Properties.Resources.resources
+D:\Escritorio\pry.TimerPicker\obj\Debug\pry.TimerPicker.csproj.GenerateResource.cache
+D:\Escritorio\pry.TimerPicker\obj\Debug\pry.TimerPicker.csproj.CoreCompileInputs.cache
+D:\Escritorio\pry.TimerPicker\obj\Debug\pry.TimerPicker.exe
+D:\Escritorio\pry.TimerPicker\obj\Debug\pry.TimerPicker.pdb
+D:\Escritorio\pry.TimerPicker\obj\Debug\pry.TimerPicker.csproj.AssemblyReference.cache
